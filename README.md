@@ -1,6 +1,7 @@
 # Real Time Bus Tracker
 
 This is a JavaScript program to display real-time bus information for buses of the MBTA (Massachusetts Bay Transportation Authority) on Route 1.
+The original requirements were for displaying only one bus on the route.  I added all the buses, and updated the markers so that buses that were outbound (having a direction of 1) are black, and I rotated the markers so that the blue ones (with a direction of 0) point upwards to indicate their general path of travel on the route.
 
 # Installation
 
@@ -21,4 +22,4 @@ Plans to update the markers with better images, possibly adding additional infor
 
 # License information
 
-No licensing is required by the author for use of this project.
+MIT License in the LICENSE file in this directory.
