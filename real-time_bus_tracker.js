@@ -1,4 +1,4 @@
-mapboxgl.accessToken='pk.eyJ1IjoiamNsYXJzb24iLCJhIjoiY2tzNG9tdmgzMGI1ZjJvcHRlOGFpdXE4ZSJ9.QO7OlUic21NATSoyZkf0_Q';
+mapboxgl.accessToken='pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
 
 let markers = [];
 
