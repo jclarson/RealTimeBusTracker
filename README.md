@@ -11,7 +11,7 @@ The original requirements were for displaying only one bus on the route.  I adde
 
 # Installation
 
-Requires the index.html, real-time_bus_tracker.js, and styles.css files to be in the same directory.
+Requires the index.html, mapanimation.js, and styles.css files to be in the same directory.
 
 # Usage
 
